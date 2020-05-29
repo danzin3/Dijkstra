@@ -1,0 +1,1 @@
+A criação de um grafo não direcionado com seus respectivos métodos e atributos, além da implementação do algoritmo de Dijkstra para realizar uma busca de menor caminho nesse grafo, contendo um vértice de origem e um destino definido em Python
